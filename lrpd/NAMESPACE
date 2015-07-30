@@ -1,0 +1,7 @@
+export(lrpd, mult_diag, rlrmvnorm, dlrmvnorm)
+
+S3method(print, lrpd)
+S3method(summary, lrpd)
+S3method(print, summary.lrpd)
+S3method(solve, lrpd)
+S3method(determinant, lrpd)

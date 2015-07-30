@@ -1,0 +1,9 @@
+Package: lrpd
+Type: Package
+Title: Low-rank Positive Definite Matrices
+Version: 1.0
+Date: 2015-07-29
+Author: Ye Wang (Eric)
+Maintainer: <ericwang921198@gmail.com>
+Description: Efficient matrix inversion and determinant calculation for low-rank positive definite (lrpd) matrices. Efficient multivariate Gaussian density calculation and sampling when its covariance matrix is low-rank.
+License: GPL-2
